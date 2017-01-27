@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6659C3E91E307CEE00368E31"
-               BuildableName = "Your PMP Exam.app"
-               BlueprintName = "Your PMP Exam"
+               BuildableName = "Your PMP App.app"
+               BlueprintName = "Your PMP App"
                ReferencedContainer = "container:Your PMP Exam.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -53,8 +53,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6659C3E91E307CEE00368E31"
-            BuildableName = "Your PMP Exam.app"
-            BlueprintName = "Your PMP Exam"
+            BuildableName = "Your PMP App.app"
+            BlueprintName = "Your PMP App"
             ReferencedContainer = "container:Your PMP Exam.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -76,8 +76,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6659C3E91E307CEE00368E31"
-            BuildableName = "Your PMP Exam.app"
-            BlueprintName = "Your PMP Exam"
+            BuildableName = "Your PMP App.app"
+            BlueprintName = "Your PMP App"
             ReferencedContainer = "container:Your PMP Exam.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -95,8 +95,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6659C3E91E307CEE00368E31"
-            BuildableName = "Your PMP Exam.app"
-            BlueprintName = "Your PMP Exam"
+            BuildableName = "Your PMP App.app"
+            BlueprintName = "Your PMP App"
             ReferencedContainer = "container:Your PMP Exam.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
