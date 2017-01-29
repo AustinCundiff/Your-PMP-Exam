@@ -49,6 +49,7 @@ class SecondViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         //initialize the questions
         if documentList.endIndex == createdList.endIndex {
             for i in 0...documentList.endIndex-1
@@ -82,6 +83,12 @@ class SecondViewController: UIViewController {
         cButton.layer.borderWidth = 1
         dButton.layer.cornerRadius = 5
         dButton.layer.borderWidth = 1
+        let screenSize: CGRect = UIScreen.main.bounds
+        let screenWidth = screenSize.width
+        if(screenWidth < 1)
+        {
+            
+        }
         //qText.text = questionString + testList[currentQuestion].document + createdEndString
       
         // Do any additional setup after loading the view, typically from a nib.

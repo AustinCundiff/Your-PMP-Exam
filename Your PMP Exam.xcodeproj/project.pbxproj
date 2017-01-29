@@ -105,8 +105,8 @@
 			children = (
 				66D669081E399A0300D5C3F6 /* Images */,
 				6659C3EC1E307CEE00368E31 /* Your PMP Exam */,
-				6659C4011E307CEF00368E31 /* Your PMP ExamTests */,
-				6659C40C1E307CEF00368E31 /* Your PMP ExamUITests */,
+				6659C4011E307CEF00368E31 /* Your PMP AppTests */,
+				6659C40C1E307CEF00368E31 /* Your PMP AppUITests */,
 				6659C3EB1E307CEE00368E31 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -139,21 +139,23 @@
 			path = "Your PMP Exam";
 			sourceTree = "<group>";
 		};
-		6659C4011E307CEF00368E31 /* Your PMP ExamTests */ = {
+		6659C4011E307CEF00368E31 /* Your PMP AppTests */ = {
 			isa = PBXGroup;
 			children = (
 				6659C4021E307CEF00368E31 /* Your_PMP_ExamTests.swift */,
 				6659C4041E307CEF00368E31 /* Info.plist */,
 			);
+			name = "Your PMP AppTests";
 			path = "Your PMP ExamTests";
 			sourceTree = "<group>";
 		};
-		6659C40C1E307CEF00368E31 /* Your PMP ExamUITests */ = {
+		6659C40C1E307CEF00368E31 /* Your PMP AppUITests */ = {
 			isa = PBXGroup;
 			children = (
 				6659C40D1E307CEF00368E31 /* Your_PMP_ExamUITests.swift */,
 				6659C40F1E307CEF00368E31 /* Info.plist */,
 			);
+			name = "Your PMP AppUITests";
 			path = "Your PMP ExamUITests";
 			sourceTree = "<group>";
 		};
